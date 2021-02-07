@@ -1,4 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<manifest package="com.bytesculptor.batterypluslib">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.bytesculptor.batterypluslib">
+
+    <!--application>
+        <activity
+            android:name=".view.health.HistoryActivityHealth"
+            android:label="@string/title_activity_main_test" />
+    </application-->
 
 </manifest>

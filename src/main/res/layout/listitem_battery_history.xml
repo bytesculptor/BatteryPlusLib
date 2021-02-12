@@ -16,7 +16,7 @@
         android:layout_marginTop="16dp"
         android:background="@drawable/circle_black"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"></FrameLayout>
+        app:layout_constraintTop_toTopOf="parent" />
 
     <ImageView
         android:id="@+id/ivHealthIcon"
